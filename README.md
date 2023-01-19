@@ -21,6 +21,8 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Code:
 
+## index.html
+    
 <!DOCTYPE html>
 <html lang="en">
     <head>
