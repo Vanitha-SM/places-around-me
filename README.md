@@ -51,6 +51,8 @@ Next start the server from the projects main directory using python3 manage.py r
     </body>
 </html>
 ## Output:
+    ![Screenshot (65)](https://user-images.githubusercontent.com/119557985/213361222-207448c4-5151-4755-b261-5d50f709d723.png)
+
 
 ## Result:
 The program for places around me through image mapping is completed successfully.
