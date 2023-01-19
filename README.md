@@ -26,9 +26,9 @@ Run the server and check for the website
             <font colour="blue"><b>Vanitha S(22008870)</b></font>
         </h3>
         <center>
-                   
             <img id="Image-Maps-Com-image-maps-2023-01-13-033840" src="places.png" border="0" width="1835" height="959" orgWidth="1835" orgHeight="959" usemap="#image-maps-2023-01-13-033840" alt="" />
             <map name="image-maps-2023-01-13-033840" id="ImageMapsCom-image-maps-2023-01-13-033840">
+
                 <area  alt="" title="Nanganallur Anjaneyar Temple" href="anjaneyar.html" shape="rect" coords="1358,664,1408,714" style="outline:none;" target="_self">
                 <area  alt="" title="Pazhavanthangal Railway Station" href="railways.html" shape="rect" coords="1039,460,1089,510" style="outline:none;" target="_self"     />
                 <area  alt="" title="Kendriya Vidyalaya" href="kv.html" shape="rect" coords="932,381,984,431" style="outline:none;" target="_self">
@@ -40,7 +40,6 @@ Run the server and check for the website
         </center>
     </body>
 </html>
-
 ## Output:
 ![Screenshot (65)](https://user-images.githubusercontent.com/119557985/213358852-56f14000-13fb-41e4-be4e-a1cd8fb494d2.png)
 ![Screenshot (66)](https://user-images.githubusercontent.com/119557985/213358942-e6e26a3d-aa49-49d5-bcdb-03b5462ff470.png)
