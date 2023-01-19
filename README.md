@@ -41,11 +41,8 @@ Link the given image map to different webpages
 </html>
 
 ## Output:
-![out1] (/out1.png)
-![out2] (/out2.png)
-![out3] (/out3.png)
-![out4] (/out4.png)
-![out5] (/out5.png)
-![out6] (/out6.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/119557985/213358852-56f14000-13fb-41e4-be4e-a1cd8fb494d2.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/119557985/213358942-e6e26a3d-aa49-49d5-bcdb-03b5462ff470.png)
+
 ## Result:
 The program for places around me through image mapping is completed successfully.
