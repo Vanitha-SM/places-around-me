@@ -9,6 +9,7 @@ Go to image maps and create image mapping
 ### Step 2:
 Link the given image map to different webpages
 ### Step 3:
+Run the server and check for the website
 
 ## Code:
 
