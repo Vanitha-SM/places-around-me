@@ -38,11 +38,8 @@ Head to the views.py in your app folder and create required functions to render 
 ## Code:
 
 ## index.html
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> bc629c2ad5478e0c8218884f1bd5b26925a4de69
+~~~ python
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -70,7 +67,8 @@ Head to the views.py in your app folder and create required functions to render 
         </center>
     </body>
 </html>
-<<<<<<< HEAD
+~~~~
+
 
 ## airport.html
 
