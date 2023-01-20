@@ -4,7 +4,7 @@ To develop a website to display details about the places around my house.
 
 ## Design Steps:
 
-<<<<<<< HEAD
+
 ## Step 1: 
 Open up a terminal in your preffered location, and start a django project using djang-admin startproject Next setup an app inside the project folder using django-admin startapp
 =======
@@ -22,19 +22,8 @@ Head to the views.py in your app folder and create required functions to render 
 
 ## Step 5:
 Next start the server from the projects main directory using python3 manage.py runserver 0:<portnumber>. Now the pages can be accessed from all the routed addresses in urls.py .
->>>>>>> bc629c2ad5478e0c8218884f1bd5b26925a4de69
 
-## Step 2:
- Once Created ,link your app to the project by adding it in the list of apps in settings.py file located inside the project folder. Add access to your host in allowed host setting and add static folders path to your settings.py file.
 
-## Step 3:
- Create a static folder and template folder and add all your required files for the project - Images .etc in your static folder. In the Template folder add your html files required for the pages.
-
-## Step 4: 
-Head to the views.py in your app folder and create required functions to render a particular page or template when requested by the client. Next go to the urls.py and route the correct view functions to each particular request as needed.
-
-## Step 5:
- Next start the server from the projects main directory using python3 manage.py runserver 0:. Now the pages can be accessed from all the routed addresses in urls.py .
 ## Code:
 
 ## index.html
@@ -71,6 +60,7 @@ Head to the views.py in your app folder and create required functions to render 
 
 
 ## airport.html
+ ~~~ python
 
 <!DOCTYPE html>
 <html lang="en">
@@ -96,8 +86,10 @@ The airport is served by the airport metro station of the Chennai Metro and the 
         </p>
     </body>
 </html>
+ ~~~
 
 ## anjaneyar.html
+ ~~~ python
 
 <!DOCTYPE html>
 <html lang="en">
@@ -123,8 +115,10 @@ The airport is served by the airport metro station of the Chennai Metro and the 
         </p>
     </body>
 </html>
+ ~~~
 
 ## at.html
+ ~~~ python
 
 <!DOCTYPE html>
 <html lang="en">
@@ -150,9 +144,10 @@ As the deity’s idol was under water for a long period, he is known as Jalakand
         </p>
     </body>
 </html>
+~~~
 
 ## kv.html
-
+~~~ python
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -177,9 +172,10 @@ The Kendriya Vidyalaya Sangathan follows the vision of "imparting knowledge/valu
         </p>
     </body>
 </html>
+~~~
 
 ## railways.html
-
+~~~ python
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -203,7 +199,7 @@ Pazhavanthangal railway station lies on the Madras Beach—Tambaram suburban sec
         </p>
     </body>
 </html>
-
+~~~
 ## Output:
 ![out1](/out1.png)
 ![out2](/out2.png)
@@ -212,10 +208,6 @@ Pazhavanthangal railway station lies on the Madras Beach—Tambaram suburban sec
 ![out5](/out5.png)
 ![out6](/out6.png)
 =======
-## Output:
-    ![Screenshot (65)](https://user-images.githubusercontent.com/119557985/213361222-207448c4-5151-4755-b261-5d50f709d723.png)
 
-
->>>>>>> bc629c2ad5478e0c8218884f1bd5b26925a4de69
 ## Result:
 The program for places around me through image mapping is completed successfully.
