@@ -3,11 +3,6 @@
 To develop a website to display details about the places around my house.
 
 ## Design Steps:
-
-
-## Step 1: 
-Open up a terminal in your preffered location, and start a django project using djang-admin startproject Next setup an app inside the project folder using django-admin startapp
-=======
 ## Step 1:
 Open up a terminal in your preffered location, and start a django project using djang-admin startproject <your-project-name> Next setup an app inside the project folder using django-admin startapp <your-app-name>
 
